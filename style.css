@@ -1,0 +1,13 @@
+html, body{
+    height: 100%;
+}
+div{
+    height: 100%;
+}
+.hero1{
+    background-image: url(https://images.squarespace-cdn.com/content/v1/51544960e4b029068f717870/1708319382989-GFE66NL54GKZFO67YO6Y/image-asset.png?format=2500w);
+}
+.hero2{
+    background: #17062E;    
+    background: linear-gradient(315deg, #17062E 0%, #3EDA71 100%);
+}
